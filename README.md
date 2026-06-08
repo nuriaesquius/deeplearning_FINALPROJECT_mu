@@ -12,7 +12,7 @@ This GitHub includes:
 
 ## Objective
 
-The goal of this project is to classify songs by musical genre using different machine learning and deep learning approaches.
+The goal of this project is to classify songs by musical genre using different deep learning approaches.
 
 ## Dataset
 
