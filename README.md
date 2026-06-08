@@ -22,9 +22,9 @@ The project is based on the **GTZAN** dataset, which contains 1000 audio clips o
 
 The project includes several approaches:
 
-- DNN model with hand-crafted extracted features
+- MLP model with hand-crafted extracted features
 - CNN model with spectrograms
-- ResNet model with spectrograms
+- ResNet18 model with spectrograms
 
 ## Preprocessing
 
