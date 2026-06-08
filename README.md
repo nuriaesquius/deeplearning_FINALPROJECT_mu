@@ -46,10 +46,10 @@ No additional steps are needed.
 
 This project relies on the following Python libraries:
 
-- **PyTorch** (`torch`, `torch.nn`, `torch.optim`) for model implementation and training [web:217]  
+- **PyTorch** (`torch`, `torch.nn`, `torch.optim`) for model implementation and training
 - **Torchvision** (`torchvision.datasets`, `torchvision.transforms`, `torchvision.models.resnet18`) for data transforms and the ResNet18 backbone.
 - **scikit-learn** (`StandardScaler`, `LabelEncoder`, `train_test_split`, metrics) for preprocessing and evaluation  
-- **Pandas** and **NumPy** for data handling and numerical operations  
+- **Pandas** and **NumPy** for data handling and numerical operations 
 - **Matplotlib** and **Seaborn** for visualizations  
 - **tqdm** for training progress bars  
 - **kagglehub** / Kaggle CLI for downloading the dataset
