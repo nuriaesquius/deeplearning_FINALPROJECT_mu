@@ -19,7 +19,7 @@ The goal of this project is to classify songs by musical genre using different d
 The project is based on the **GTZAN** dataset, which contains 1000 audio clips of 30 seconds divided into 10 music genres.  
 We use the GTZAN version distributed on Kaggle:
 
-- Andrada Olteanu, “GTZAN Dataset – Music Genre Classification,” Kaggle, 2020. [web:203]
+- Andrada Olteanu, “GTZAN Dataset – Music Genre Classification,” Kaggle, 2020.
 
 ## Models Used
 
@@ -47,7 +47,7 @@ No additional steps are needed.
 This project relies on the following Python libraries:
 
 - **PyTorch** (`torch`, `torch.nn`, `torch.optim`) for model implementation and training [web:217]  
-- **Torchvision** (`torchvision.datasets`, `torchvision.transforms`, `torchvision.models.resnet18`) for data transforms and the ResNet18 backbone [web:170][web:214]  
+- **Torchvision** (`torchvision.datasets`, `torchvision.transforms`, `torchvision.models.resnet18`) for data transforms and the ResNet18 backbone.
 - **scikit-learn** (`StandardScaler`, `LabelEncoder`, `train_test_split`, metrics) for preprocessing and evaluation  
 - **Pandas** and **NumPy** for data handling and numerical operations  
 - **Matplotlib** and **Seaborn** for visualizations  
